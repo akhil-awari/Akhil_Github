@@ -6,9 +6,9 @@ The data provided has 20,510 observations and 82 fields. ‘SalePrice’ is our 
 
 ## Project Overview<br>
 The analysis consists of 1 Jupyter notebooks.
-1. Exploratory Data Analysis +  Machine Learning Modeling. The detailed notebook of modeling can be found. The detailed notebook of EDA can be found <a href="paste_link">here</a>.
+1. Exploratory Data Analysis +  Machine Learning Modeling. The detailed notebook of modeling can be found. The detailed notebook of EDA can be found <a href="https://github.com/akhil-awari/Akhil_Github/blob/main/House%20Price%20Prediction/House_price_pred.ipynb">here</a>.
 
-See the <a href="link">presentation slides</a> for a summary of this analysis.
+See the <a href="https://github.com/akhil-awari/Akhil_Github/blob/main/House%20Price%20Prediction/House_price_pred.pptx">presentation slides</a> for a summary of this analysis.
 
 Machine Learning Models Used: 
 1. Linear Regression (Lasso, Ridge)
